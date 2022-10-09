@@ -136,7 +136,7 @@ nav .navbar-brand {
   font-weight: bold;
 }
 nav .active {
-  color: #039dff;
+  color: #039dff !important;
 }
 
 header {
